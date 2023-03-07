@@ -3,7 +3,7 @@
 [![GitHub_Badge](https://img.shields.io/github/followers/tuyenhavan?style=social)](https://github.com/tuyenhavan?tab=followers)
 [![Google Scholar Badge](https://img.shields.io/badge/Google%20Scholar-4285F4?logo=googlescholar&logoColor=ffff&style=for-the-badge)](https://scholar.google.com/citations?user=5DBgVpUAAAAJ&hl=en)
 
-I am a PhD student at German Aerospace Center (DLR) and University of Wuerzburg, Germany. My research interests include remote sensing, Geographic Information System (GIS), and environmental monitoring. My current work focuses on spatiotemporal characterization and monitoring of drought hazards from earth observation time-series data.
+I am a PhD student at German Aerospace Center (DLR) and University of Wuerzburg, Germany. My current work focuses on spatiotemporal characterization and monitoring of drought hazards using earth observation time-series data. I am also interested in remote sensing machine learning/deep learning to monitor and characterize environment-related changes. 
 
 <!--
 **tuyenhavan/tuyenhavan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
