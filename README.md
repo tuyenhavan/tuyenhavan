@@ -1,7 +1,7 @@
 ## Tuyen Ha Van
 
 [![GitHub_Badge](https://img.shields.io/github/followers/tuyenhavan?style=social)](https://github.com/tuyenhavan?tab=followers)
-[![Google Scholar Badge](https://img.shields.io/badge/Google-scholar-lightgray)](https://scholar.google.com/citations?user=5DBgVpUAAAAJ&hl=en)
+[![Google Scholar Badge](https://img.shields.io/badge/Google-scholar-bluegray)](https://scholar.google.com/citations?user=5DBgVpUAAAAJ&hl=en)
 
 I am a PhD student at German Aerospace Center (DLR) and University of Wuerzburg, Germany. My current work focuses on spatiotemporal characterization and monitoring of drought hazards using earth observation time-series data. I am also interested in remote sensing machine learning/deep learning to monitor and characterize environment-related changes. 
 
