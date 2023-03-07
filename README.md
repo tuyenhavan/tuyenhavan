@@ -1,7 +1,7 @@
 ## Tuyen Ha Van
 
 [![GitHub_Badge](https://img.shields.io/github/followers/tuyenhavan?style=social)](https://github.com/tuyenhavan?tab=followers)
-(![Google Scholar Badge](https://img.shields.io/badge/Google%20Scholar-4285F4?logo=googlescholar&logoColor=fff&style=for-the-badge)(https://scholar.google.com/citations?user=5DBgVpUAAAAJ&hl=en)
+[![Google Scholar Badge](https://img.shields.io/badge/Google%20Scholar-4285F4?logo=googlescholar&logoColor=fff&style=for-the-badge)](https://scholar.google.com/citations?user=5DBgVpUAAAAJ&hl=en)
 
 I am a PhD student at German Aerospace Center (DLR) and University of Wuerzburg, Germany. 
 
