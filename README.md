@@ -1,4 +1,4 @@
-### Hi there 👋
+I am Tuyen Ha Van, a PhD student at German Aerospace Center (DLR) and University of Wuerzburg, Germany. 
 
 <!--
 **tuyenhavan/tuyenhavan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
