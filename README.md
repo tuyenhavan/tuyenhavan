@@ -11,5 +11,5 @@ I am a PhD student at German Aerospace Center (DLR) and University of Wuerzburg,
 
 ### Open-source Projects
 
-- **Updating**
+- *Updating*
 
