@@ -6,6 +6,9 @@
 [![ResearchGate Badge](https://img.shields.io/badge/My-ResearchGate-yellow)](https://www.researchgate.net/profile/Tuyen-Ha/research)
 
 I am a PhD student at German Aerospace Center (DLR) and University of Wuerzburg, Germany. My current work focuses on spatiotemporal characterization and monitoring of drought hazards using earth observation time-series data. I am also interested in remote sensing machine learning/deep learning to monitor and characterize environment-related changes. 
+--- 
+### Open-source Projects
+
 
 <!--
 **tuyenhavan/tuyenhavan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
