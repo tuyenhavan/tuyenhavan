@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/My-LinkeIn-blue)](https://www.linkedin.com/in/tuyen-ha-van-435856128/)
 [![ResearchGate Badge](https://img.shields.io/badge/My-ResearchGate-yellow)](https://www.researchgate.net/profile/Tuyen-Ha/research)
 
-I am a lecturer (geospatial and remote sensing) at Thai Nguyen University of Agriculture and Forestry, Vietnam and a PhD student at German Aerospace Center (DLR), Germany. My current work focuses on spatiotemporal characterization and monitoring of drought hazards and landuse changes using earth observation time-series data. I am also interested in remote sensing machine learning/deep learning to monitor and characterize environment-related changes. 
+I am a PhD student at German Aerospace Center (DLR), Germany. My current work focuses on spatiotemporal characterization and monitoring of drought hazards and landuse changes using earth observation time-series data. I am also interested in remote sensing machine learning/deep learning to monitor and characterize environment-related changes. 
 
 --- 
 
