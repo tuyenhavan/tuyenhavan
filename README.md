@@ -8,8 +8,15 @@
 I am a PhD student at German Aerospace Center (DLR) and University of Wuerzburg, Germany. My current work focuses on spatiotemporal characterization and monitoring of drought hazards and landuse changes using earth observation time-series data. I am also interested in remote sensing machine learning/deep learning to monitor and characterize environment-related changes. 
 
 --- 
+### Research interests
 
-### Open-source Projects
+- Remote sensing and GIS
+- Drought monitoring and characterization
+- Time-series analysis
+- Machine learning and deep learning in earth observation.
+---
+
+### Open-source contribution
 
 - **Python packages**: [pymapee](https://github.com/tuyenhavan/pymapee)
 
