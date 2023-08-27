@@ -11,7 +11,7 @@ I am a PhD student at German Aerospace Center (DLR) and University of Wuerzburg,
 ### Research interests
 
 - Remote sensing and GIS
-- Drought monitoring and characterization
+- Hazard monitoring and characterization
 - Time-series analysis
 - Machine learning and deep learning in earth observation.
 ---
