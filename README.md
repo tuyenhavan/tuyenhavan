@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/My-LinkeIn-blue)](https://www.linkedin.com/in/tuyen-ha-van-435856128/)
 [![ResearchGate Badge](https://img.shields.io/badge/My-ResearchGate-yellow)](https://www.researchgate.net/profile/Tuyen-Ha/research)
 
-I am a PhD student at German Aerospace Center (DLR) and University of Wuerzburg, Germany. My current work focuses on spatiotemporal characterization and monitoring of drought hazards and their impacts on agriculture and ecosystems using earth observation time-series data. I am also interested in remote sensing machine learning/deep learning to monitor and characterize environment-related changes. 
+I specialise in remote sensing and geospatial science, and earned my PhD at the German Aerospace Center (DLR) in Germany. My doctoral research developed a comprehensive framework to monitor and analyse the spatiotemporal characteristics of drought hazards and assess their impacts on agriculture and ecosystems, using vegetation Earth observation time-series data. Currently, my work is dedicated to creating AI-powered applications for deforestation monitoring, forest canopy height estimation, and land use change detection. 
 
 --- 
 ### Research interests
