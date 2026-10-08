@@ -19,7 +19,3 @@ I specialise in remote sensing and geospatial science, and earned my PhD at the 
 ### Open-source contribution
 
 - **Python packages**: [pymapee](https://github.com/tuyenhavan/pymapee)
-
----
-![github stats](https://YOUR-PROJECT.vercel.app/api?username=tuyenhavan&show_icons=true)
-![Top Langs](https://YOUR-PROJECT.vercel.app/api/top-langs/?username=tuyenhavan&langs_count=3&hide=javascript,go,html,css,tex)
